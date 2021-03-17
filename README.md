@@ -18,6 +18,24 @@ Before you open source your project, consider the effort required to maintain it
 
 #### Who owns the code I contribute to open source projects?
 
+> **Answer:** [@ThesllaDev](https://github.com/ThesllaDev)
+
+#### Who should I contact in case of doubt?
+
+> **Answer:** If you have questions you can open an Issue in this repository stating what your doubts are
+
+####  How should someone contact me if I have questions?
+
+> **Answer:** After opening an Issue someone will respond in the comments of the same 
+
+#### What are the first steps to start opening a project's source code?
+
+> **Answer:** [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+
+#### How does this repository relate to other projects and business objectives?
+
+> **Answer:** This repository is open source and its main objective is to help anyone who wants to start transforming their projects into open source 
+
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
