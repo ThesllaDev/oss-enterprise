@@ -4,12 +4,12 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
 
 ## Project Health Check
 
-- [ ] The license is acceptable per our [license policy](docs/license-policy.md)
-- [ ] The repository is well maintained
+- [x] The license is acceptable per our [license policy](docs/license-policy.md)
+- [x] The repository is well maintained
    - Security vulnerabilities are addressed in a timely manner
    - Project shows regular activity
    - Bugs reported in issues are addressed promptly
 
 ## Internal Process
 
-- [ ] Notify the xyz team that you intend to use this project
+- [x] Notify the xyz team that you intend to use this project
